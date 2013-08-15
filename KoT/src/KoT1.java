@@ -1,5 +1,6 @@
-import java.util.*;										//Import for access to  Scanner and Random.
-import java.io.*;										//Import to work with files.
+import java.util.Scanner;							//Import Scanner utility
+import java.util.Random;							//Import Random utility
+import java.io.*;									//Import to work with files.
 
 public class KoT1{								
 	public static void main(String[] args) throws IOException{
